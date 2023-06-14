@@ -1,0 +1,15 @@
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.exe
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.deps.json
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.runtimeconfig.json
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.dll
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.pdb
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.csproj.AssemblyReference.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.AssemblyInfoInputs.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.AssemblyInfo.cs
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.csproj.CoreCompileInputs.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.dll
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\refint\AdivinaElNumero.dll
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.pdb
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.genruntimeconfig.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\ref\AdivinaElNumero.dll
